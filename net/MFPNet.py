@@ -12,7 +12,7 @@ class MFPNet(nn.Module, PyTorchModelHubMixin):
                  heads=[1, 2, 4, 8],
                  norm=False
                  ):
-        super(CIDNet, self).__init__()
+        super(MFPNet, self).__init__()
 
         [ch1, ch2, ch3, ch4] = channels
         [head1, head2, head3, head4] = heads
