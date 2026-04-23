@@ -1,4 +1,4 @@
-# MFP-Net：Multi-scale Frequency and Position-aware Network for Low-Light Image Enhancement
+# Frequency and Position-Aware Deep Network for Low-Light Image Enhancement in HVI Color Space
 ## 1. Environment
 
 ### python and pytorch version
